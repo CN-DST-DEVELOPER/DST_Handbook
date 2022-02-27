@@ -26,3 +26,5 @@
 
 使用Don't Starve Mod Tools以上传mod至steam创意工坊，请注意遵守[饥荒联机版模组开发联盟公约](https://cn-dst-developer.github.io/_pages/AllianceConvention)
 
+### 其他饥荒MOD教程
+- [朋也的饥荒联机版MOD开发教程](https://tomoya92.github.io/dstmod-tutorial)
