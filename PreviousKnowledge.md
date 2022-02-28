@@ -2,7 +2,7 @@
 
 ### 开发环境搭建（面向win用户）
 
-- 安装[vscode](https://code.visualstudio.com/)和Lua插件（[Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)，[vscode-lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua)）
+- 安装[vscode](https://code.visualstudio.com/)和Lua插件（[Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)，[vscode-lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua)）、[Git插件](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - 安装[Git](https://git-scm.com/download/win)
 - [注册GitHub账号](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fexplore&source=header)并[加入](https://github.com/CN-DST-DEVELOPER/CN-DST-DEVELOPER.github.io/issues/1)组织
 - 学习[Markdown语法](https://gist.github.com/Thesharing/5e5f5842ede0cb6d95d38ea39d9e0234#html)（可选）
