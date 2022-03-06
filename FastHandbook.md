@@ -40,6 +40,10 @@
 
 更多控制台命令在`consolecommands.lua`中
 
+### 工坊页面特殊格式标记
+
+![img](assets/images/工坊文本格式.png)
+
 ### MOD基本文件夹结构
 
 | 路径名                    |                    内容                    |
